@@ -44,7 +44,7 @@ This system uses advanced deep learning models to automatically detect and class
 
 ## 🚀 Demo
 
-You can try the live demo [here](your-deployment-url) or run it locally following the installation instructions.
+You can try the live demo [here](https://driver-distraction-ypranmhs4tcbn8njkkum73.streamlit.app/) or run it locally following the installation instructions.
 
 ## 🛠️ Installation
 
@@ -56,8 +56,8 @@ You can try the live demo [here](your-deployment-url) or run it locally followin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/driver-distraction-detection.git
-   cd driver-distraction-detection
+   git clone https://github.com/yourusername/driver-distraction.git
+   cd driver-distraction
    ```
 
 2. **Create virtual environment**
